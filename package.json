@@ -1,0 +1,19 @@
+{
+  "name": "mynpmlib",
+  "version": "1.0.0",
+  "description": "my npm lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neltro/mynpmlib.git"
+  },
+  "author": "neltro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neltro/mynpmlib/issues"
+  },
+  "homepage": "https://github.com/neltro/mynpmlib#readme"
+}
