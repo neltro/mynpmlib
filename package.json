@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/neltro/mynpmlib/issues"
   },
-  "homepage": "https://github.com/neltro/mynpmlib#readme"
+  "homepage": "https://github.com/neltro/mynpmlib#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  }
 }
